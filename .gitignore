@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+
+# CIFAR-10 auto-downloads here on first run
+data/
+
+# trained encoder checkpoints (large)
+results/checkpoints/

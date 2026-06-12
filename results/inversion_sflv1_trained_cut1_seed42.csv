@@ -1,0 +1,2 @@
+method,encoder,cut_layer,seed,base_channels,decoder_epochs,psnr,ssim,mse
+sflv1,trained,1,42,64,30,43.6147,0.9958,5e-05

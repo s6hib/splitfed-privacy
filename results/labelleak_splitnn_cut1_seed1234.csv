@@ -1,0 +1,2 @@
+method,cut_layer,seed,base_channels,train_epochs,model_test_acc,norm_leak_auc,probe_label_acc,chance_acc
+splitnn,1,1234,64,15,87.86,0.6282,54.0,10.0

@@ -1,0 +1,2 @@
+defense,cut_layer,seed,base_channels,sigma,model_acc,psnr,ssim,mse
+pixeldp,2,1234,64,0.25,89.03,34.1885,0.9775,0.000415
