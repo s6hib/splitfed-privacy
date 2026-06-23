@@ -1,5 +1,7 @@
 # How private is split federated learning?
 
+**[Read the full paper (PDF)](how-private-is-the-cut.pdf)**
+
 Code and results for the second half of my senior project. The first half reproduced
 SplitFed learning (Thapa et al., AAAI 2022) on CIFAR-10 with a CIFAR-adapted ResNet18 and made
 the cut layer configurable. This half asks the follow-up question: how much privacy does the
